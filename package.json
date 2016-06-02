@@ -1,5 +1,5 @@
 {
-  "name": "alexeykomov.net",
+  "name": "yauheniyarotski.me",
   "version": "0.0.1",
   "description": "homepage",
   "main": "",
@@ -13,7 +13,7 @@
     "homepage"
   ],
   "author": [
-    "alexeykcontact@gmail.com (Alex K)"
+    "yauheniyarotski@me.com"
   ],
   "license": "commercial",
   "devDependencies": {
